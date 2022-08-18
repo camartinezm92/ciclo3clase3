@@ -16,8 +16,10 @@ public class MiProtyecto {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Aprendiendo a compartir informacion con la clase");
-        
-        
+
+        System.out.println("Aprendiendo a compartir informacion con la clase");
+        System.out.println("Aprendiendo a compartir informacion con la clase");
+
     }
     
 }
